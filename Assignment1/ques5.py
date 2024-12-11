@@ -1,3 +1,5 @@
+# The length & breadth of a rectangle and radius of a circle are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle, and the area & circumference of the circle.
+
 import math
 length = float(input('Enter the length of rectangle: '))
 breadth = float(input('Enter the breadth of rectangle: '))
