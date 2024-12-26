@@ -1,0 +1,1 @@
+# Write a program in Python to check if a given number is even or odd using the function.
